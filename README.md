@@ -93,5 +93,40 @@ bash ProtSeqGen_code/Model_testing/test_50.sh
 bash ProtSeqGen_code/Model_testing/test_500.sh
 ```
 
+## 4.Scripts Usage
+
+- **plot.py**: Compare generated structures with original 3D structures and generate visualization plots:
+
+```
+python Scripts/plot.py --pred pred.pdb --ref ref.pdb
+```
+
+- **split.py**: Divide the CATH dataset based on sequence similarity:
+
+```
+python Scripts/split.py --input Datasets/CATH4.2 --output Datasets/CATH_split
+```
+
+## 5. Installation
+
+Download the code:
+
+```
+git clone https://github.com/NJAU-CDSIC/ProtSeqGen.git
+```
+
+## 6.Citation
+
+If you use ProtSeqGen in your research, please cite:
+
+```
+@misc{ProtSeqGen2025,
+  title={ProtSeqGen: Protein Sequence Generation from Backbone Structures},
+  author={NJAU-CDSIC},
+  year={2025},
+  howpublished={\url{https://github.com/NJAU-CDSIC/ProtSeqGen}}
+}
+```
+
   
 
