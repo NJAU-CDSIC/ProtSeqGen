@@ -1,0 +1,36 @@
+name: ProtSeqGen
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+  - pip
+dependencies:
+  # ---- Core Python ----
+  - python=3.10
+  - pip
+
+  # ---- Conda Packages ----
+  - numpy
+  - pyyaml
+  - networkx
+  - pillow
+  - ffmpeg
+
+  # ---- Pip Packages ----
+  - pip:
+      # Core utilities
+      - absl-py
+      - biopython
+      - einops
+      - pandas
+      - tqdm
+      - scipy
+      - rich
+
+      # Deep learning frameworks
+      - torch==2.5.1
+      - torchvision==0.20.1
+      - torchaudio==2.5.1
+      - torch-scatter==2.1.2
+      - tensorflow==2.19.0
