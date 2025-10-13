@@ -81,7 +81,7 @@ After setting up the environment and datasets, you can train and test the model 
 bash ProtSeqGen_code/Model_training/training.sh
 ```
 
-- Test on TS50:
+- Test on TS50, Make sure the Model folder contains the trained model parameters before running these tests.:
 
 ```
 bash ProtSeqGen_code/Model_testing/test_50.sh
