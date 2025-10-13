@@ -62,6 +62,36 @@ conda env create -f environment.yml
 conda activate protseqgen
 ```
 
+## 2. Datasets
+
+Place the datasets into the Datasets folder. For CATH4.2, you can download it by running the provided script:
+
+```
+cd Datasets/CATH4.2
+bash getCATH.sh
+```
+
+## 3. Training and Testing
+
+After setting up the environment and datasets, you can train and test the model by running the provided scripts.
+
+- Train the model using the CATH4.2 dataset:
+
+```
+bash ProtSeqGen_code/Model_training/training.sh
+```
+
+- Test on TS50:
+
+```
+bash ProtSeqGen_code/Model_testing/test_50.sh
+```
+
+- Test on TS500:
+
+```
+bash ProtSeqGen_code/Model_testing/test_500.sh
+```
 
   
 
