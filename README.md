@@ -38,7 +38,7 @@ The folders in the ProtSeqGen repository:
   
    GeoSeqBuilder: https://github.com/PKUliujl/GeoSeqBuilder
 
-- **scripts**: Contains auxiliary scripts for data processing and visualization.
+- **Scripts**: Contains auxiliary scripts for data processing and visualization.
 
    a. **plot**: Compares generated protein structures with original 3D structures and produces visualization plots.
   
@@ -54,9 +54,3 @@ The folders in the ProtSeqGen repository:
 
   
 
-
-
-  
-  
-
-- **Scripts**:
