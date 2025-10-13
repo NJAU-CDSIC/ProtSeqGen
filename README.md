@@ -14,4 +14,4 @@ The folders in the ProtSeqGen repository:
   
    c. **TS500**: A large-scale benchmark dataset containing 500 protein structures for comprehensive evaluation.
   
-- **ProtSeqGen**
+- **ProtSeqGen_code**: Main source code of the ProtSeqGen model, including data processing, model definition, training, and evaluation scripts.
