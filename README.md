@@ -50,7 +50,13 @@ The folders in the ProtSeqGen repository:
 
 ###  **Step-by-step Running:**
 
-## 1.
+## 1.Environment Installation
+It is recommended to use a conda environment (Python 3.10), mainly installing the following dependencies:
 
+pytorch(2.0.0)、pytorch-cuda(11.8)、scipy(1.10.1)、scikit-learn(1.2.2)、pandas(2.0.0)、numpy(1.23.5)
+See environment.yml for details. Use the following command to install the runtime environment:
+
+conda env create -f environment.yml
+conda activate protseqgen
   
 
