@@ -1,2 +1,2 @@
-# ProtSeqGen Code Repository
-This is the official repository for ProtSeqGen, a deep learning framework for protein sequence design from backbone structures. 
+# **ProtSeqGen** Code Repository
+This is a directory for storing the **ProtSeqGen** model code and data.**ProtSeqGen** is a deep learning framework for protein sequence design from backbone structures. 
