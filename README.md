@@ -1,1 +1,1 @@
-# ProtSeqGen Code Repository
+## ProtSeqGen Code Repository
