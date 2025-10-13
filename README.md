@@ -8,10 +8,12 @@ The folders in the ProtSeqGen repository:
 
 - **Datasets**:
 
-   a. **CATH4.2**: A non-redundant protein structure dataset from the CATH 4.2 database, used for model training and validation.
+   a. **CATH4.2**: A non-redundant protein structure dataset from the CATH 4.2 database.
 
-   b. **TS50**: A standard benchmark dataset consisting of 50 protein structures, commonly used for sequence recovery evaluation.
+   b. **TS50**: A standard benchmark dataset consisting of 50 protein structures.
   
-   c. **TS500**: A large-scale benchmark dataset containing 500 protein structures for comprehensive evaluation.
+   c. **TS500**: A large-scale benchmark dataset containing 500 protein structures.
   
-- **ProtSeqGen_code**: Main source code of the ProtSeqGen model, including data processing, model definition, training, and evaluation scripts.
+- **ProtSeqGen_code**: Main code file for the ProtSeqGen model.
+
+- 
