@@ -13,6 +13,10 @@ The folders in the ProtSeqGen repository:
    b. **TS50**: A standard benchmark dataset consisting of 50 protein structures.
   
    c. **TS500**: A large-scale benchmark dataset containing 500 protein structures.
+
+   d. **TS45**: A benchmark dataset consisting of 45 protein structures.
+
+   e. **IDRome**: An additional benchmark dataset for evaluating performance on the IDRome subset.
   
 - **ProtSeqGen_code**: Main code file for the ProtSeqGen model.
 
