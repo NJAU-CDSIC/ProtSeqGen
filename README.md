@@ -20,6 +20,8 @@ The folders in the ProtSeqGen repository:
   
 - **ProtSeqGen_code**: Main code file for the ProtSeqGen model.
 
+- **FT modelTwo**: fine-tuned Models: ProtsegGen-FT-IDR for IDRome-120 and ProtSegGen-FT-FM for TS45.
+
 - **SOTA**:Comparative methods used in the contrast experiments:
   
    SPROF: https://github.com/biomed-AI/SPROF
