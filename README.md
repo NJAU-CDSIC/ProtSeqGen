@@ -14,7 +14,7 @@ The folders in the ProtSeqGen repository:
   
    c. **TS500**: A large-scale benchmark dataset containing 500 protein structures.
 
-   d. **TS45**: A benchmark dataset consisting of 45 protein structures.
+   d. **TS45**: A benchmark dataset consisting of 45 FM targets from CASP15.
 
    e. **IDRome-120**: A benchmark dataset consisting of 120 intrinsically disordered proteins (a small subset of IDRome).
   
